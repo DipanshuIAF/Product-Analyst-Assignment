@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 The task involved **merging datasets**, handling **missing values**, and ensuring clean data for analysis using **Python & Pandas**.
 
+## Description
+This project showcases my skills in data merging and analysis using Python and Pandas. It was completed as part of my Product Analyst internship selection process, where I handled data integration, missing value imputation, and dataset transformation to ensure clean and structured data for analysis.
+
 ## 📊 Key Features
 - Merged multiple datasets efficiently
 - Identified and handled missing data
